@@ -47,11 +47,16 @@ private fun QuadrantCell(title: String, body: String, color: Color, modifier: Mo
 
 | Меню | Compose Article |
 |---|---|
-| ![Меню]1скрин | ![Compose Article](2скрин) |
+| ![Меню]<img width="1080" height="2400" alt="01_menu" src="https://github.com/user-attachments/assets/1a719ce2-c31f-4807-8d60-5867af1c2354" />
+ | ![Compose Article]<img width="1080" height="2400" alt="02_article" src="https://github.com/user-attachments/assets/8a86c251-79b3-49af-967b-1282308fff60" />
+ |
 
 | Task Manager | Compose Quadrant | My Information |
 |---|---|---|
-| ![Task Manager](3скрин) | ![Compose Quadrant](4скрин) | ![My Information](5скрин) |
+| ![Task Manager]<img width="1080" height="2400" alt="03_task_manager" src="https://github.com/user-attachments/assets/cc1064fd-faa5-4212-addd-36a2bbc91c13" />
+ | ![Compose Quadrant]<img width="1080" height="2400" alt="04_quadrant" src="https://github.com/user-attachments/assets/27b2cb5e-67f9-474b-8140-dd90cdea99dc" />
+ | ![My Information]<img width="1080" height="2400" alt="05_my_information" src="https://github.com/user-attachments/assets/2107fb38-a9a2-434a-bede-d0e02fedf5ae" />
+ |
 
 ## Вывод
 
